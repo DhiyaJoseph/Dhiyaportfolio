@@ -115,7 +115,7 @@ const Hero = () => {
               View My Work
             </a>
             <a
-              href="https://drive.google.com/file/d/1GLjWv1WXlXFt1bKRItope_q0xWff25Ib/view?usp=sharing" 
+              href="https://drive.google.com/file/d/1AJcDhLLBdEeeVc__7f4gIFJ2fGv_yF_i/view?usp=sharing" 
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 glass-effect hover:bg-white/10 text-white rounded-lg font-semibold transition-all duration-300 hover-lift flex items-center justify-center gap-2"
