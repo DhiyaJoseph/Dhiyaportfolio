@@ -39,8 +39,8 @@ const Projects = () => {
       description: 'Responsive portfolio website showcasing my projects and skills. Built with modern design principles and smooth animations.',
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800',
       technologies: ['React', 'TypeScript','JavaScript', 'Tailwind CSS', 'Framer Motion'],
-      github: 'https://github.com/DhiyaJoseph/DhiyaJoseph-portfolio',
-      live: 'https://dhiyajoseph.github.io/DhiyaJoseph-portfolio/',
+      github: 'https://github.com/DhiyaJoseph/Dhiyaportfolio',
+      live: 'https://dhiyaportfolio.vercel.app/',
       icon: Palette,
       featured: false
     }
