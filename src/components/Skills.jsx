@@ -17,11 +17,11 @@ const Skills = () => {
     {
       title: 'Backend Development',
       skills: [
-        { name: 'Node.js', level: 80 },
+        { name: 'Django', level: 90 },
         { name: 'Express.js', level: 75 },
-        { name: 'Python', level: 70 },
-        { name: 'MongoDB', level: 75 },
-        { name: 'PostgreSQL', level: 70 },
+        { name: 'Python', level: 80 },
+        { name: 'Node.js', level: 75 },
+        { name: 'MySQL', level: 80 },
         { name: 'REST APIs', level: 85 }
       ]
     },
@@ -31,8 +31,8 @@ const Skills = () => {
         { name: 'Git/GitHub', level: 90 },
         { name: 'Docker', level: 65 },
         { name: 'AWS', level: 60 },
-        { name: 'Linux', level: 75 },
-        { name: 'Figma', level: 70 },
+        { name: 'Postman', level: 75 },
+        { name: 'Figma', level: 90 },
         { name: 'VS Code', level: 95 }
       ]
     },

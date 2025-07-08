@@ -13,13 +13,10 @@ const Footer = () => {
           </div>
           
           <div className="text-dark-400 text-sm">
-            <p>&copy; 2024 Dhiya Joseph. All rights reserved.</p>
+            <p>&copy; 2025 Dhiya Joseph. All rights reserved.</p>
           </div>
         </div>
         
-        <div className="mt-6 pt-6 border-t border-dark-700 text-center text-dark-500 text-sm">
-          <p>Built with React, TypeScript, and Tailwind CSS</p>
-        </div>
       </div>
     </footer>
   );

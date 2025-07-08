@@ -33,12 +33,6 @@ const Contact = () => {
       href: 'mailto:dhiyajsph@gmail.com'
     },
     {
-      icon: Phone,
-      label: 'Phone',
-      value: '+91 9745895315',
-      href: 'tel:9745895315'
-    },
-    {
       icon: MapPin,
       label: 'Location',
       value: 'Kerala, India',
