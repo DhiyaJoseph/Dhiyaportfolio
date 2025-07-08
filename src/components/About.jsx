@@ -7,7 +7,7 @@ const About = () => {
     {
       icon: Code,
       title: 'Full Stack Development',
-      description: 'Proficient in modern web technologies including React, Node.js, and cloud platforms'
+      description: 'Proficient in modern web technologies including React, Django, and cloud platforms'
     },
     {
       icon: Shield,
@@ -40,7 +40,7 @@ const About = () => {
     {
       icon: GraduationCap,
       label: 'Education',
-      value: 'B.Tech Computer Science & Engineering'
+      value: 'B.Tech Electronics and Communication Engineering'
     }
   ];
 
@@ -58,12 +58,11 @@ const About = () => {
             About <span className="gradient-text">Me</span>
           </h2>
           <p className="text-xl text-dark-300 max-w-3xl mx-auto">
-            I'm a passionate Computer Science student with a strong foundation in both 
-            development and cybersecurity, always eager to learn and create innovative solutions.
+            I enjoy building intuitive, impactful web applications that solve real-world problems and enhance user experiences. Driven by curiosity and a commitment to continuous learning, I thrive on exploring emerging technologies and collaborating on projects that push boundaries..
           </p>
         </motion.div>
 
-        <div className="grid lg:grid-cols-2 gap-12 items-start">
+        <div className="grid  gap-12 items-start">
           {/* Personal Info & Journey */}
           <motion.div
             initial={{ opacity: 0, x: -30 }}
@@ -102,20 +101,14 @@ const About = () => {
               <h3 className="text-2xl font-semibold mb-6 text-primary-400">My Journey</h3>
               <div className="space-y-4 text-dark-300">
                 <p>
-                  Currently pursuing my B.Tech in Computer Science and Engineering at 
-                  Sree Narayana Gurukulam College of Engineering, I've developed a strong 
-                  passion for both web development and cybersecurity.
+                  I have completed my B.Tech in Electronics and Communication Engineering, I've developed a strong
+                  passion for both web development and cybersecurity. Currently working as a Project Associate in Information Security at NIELIT Calicut, I’ve cultivated a deep interest in web development and cybersecurity through hands-on experience and continuous learning.
                 </p>
                 <p>
-                  My journey began with curiosity about how things work behind the scenes, 
-                  which led me to explore various programming languages and frameworks. 
-                  I've worked on multiple projects ranging from e-commerce platforms to 
-                  creative web applications.
+                  My journey began with a drive to create meaningful tech solutions, which led me to explore full-stack development using React, Django, and RESTful APIs. From building inventory management systems to AI-powered assistants, I’ve developed secure, responsive applications that solve real-world problems.
                 </p>
                 <p>
-                  Beyond coding, I'm deeply interested in cybersecurity and ethical hacking, 
-                  constantly learning about new security vulnerabilities and protection methods. 
-                  I believe in building secure, scalable, and user-friendly applications.
+                  Alongside development, I actively contribute to cybersecurity initiatives—supporting policy implementation, vulnerability assessments, and technical research under national projects. I'm passionate about blending innovation with security to build robust, scalable digital systems.
                 </p>
               </div>
             </div>

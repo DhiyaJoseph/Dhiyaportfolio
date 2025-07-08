@@ -5,10 +5,10 @@ import { ExternalLink, Github, Code, Palette, ShoppingCart, Edit } from 'lucide-
 const Projects = () => {
   const projects = [
     {
-      title: 'FabStash - Fabric Management System',
-      description: 'A comprehensive fabric management system built with modern web technologies. Features inventory tracking, user management, and real-time updates.',
+      title: 'FabStash - Inventory Management System',
+      description: 'A comprehensive inventory management system built with modern web technologies. Features inventory tracking, user management, and real-time updates.',
       image: 'https://images.pexels.com/photos/7688336/pexels-photo-7688336.jpeg?auto=compress&cs=tinysrgb&w=800',
-      technologies: ['React', 'Node.js', 'MongoDB', 'Express'],
+      technologies: ['React', 'Django', 'REST API', 'tailwindcss'],
       github: 'https://github.com/DhiyaJoseph/fabstash',
       live: '#',
       icon: Code,
@@ -18,7 +18,7 @@ const Projects = () => {
       title: 'E-Commerce Platform',
       description: 'Full-featured e-commerce website with user authentication, product catalog, shopping cart, and payment integration.',
       image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800',
-      technologies: ['React', 'Redux', 'Node.js', 'Stripe API'],
+      technologies: ['React', 'Redux', 'Node.js', 'API'],
       github: 'https://github.com/DhiyaJoseph/E-commerce',
       live: '#',
       icon: ShoppingCart,
@@ -38,7 +38,7 @@ const Projects = () => {
       title: 'Personal Portfolio',
       description: 'Responsive portfolio website showcasing my projects and skills. Built with modern design principles and smooth animations.',
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800',
-      technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
+      technologies: ['React', 'TypeScript','JavaScript', 'Tailwind CSS', 'Framer Motion'],
       github: 'https://github.com/DhiyaJoseph/DhiyaJoseph-portfolio',
       live: 'https://dhiyajoseph.github.io/DhiyaJoseph-portfolio/',
       icon: Palette,

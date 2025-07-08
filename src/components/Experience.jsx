@@ -5,10 +5,10 @@ import { GraduationCap, Award, Calendar } from 'lucide-react';
 const Experience = () => {
   const education = [
     {
-      degree: 'B.Tech in Computer Science and Engineering',
-      institution: 'Sree Narayana Gurukulam College of Engineering',
-      period: '2020 - 2024',
-      description: 'Focused on software development, algorithms, and cybersecurity. Maintained strong academic performance while working on various projects.',
+      degree: 'B.Tech in Electronics and Communication Engineering',
+      institution: 'Universal College of Engineering',
+      period: '2019 - 2023',
+      description: 'Gained a strong foundation in electronics with a focus on programming, web technologies, and cybersecurity. Actively engaged in technical projects and paper presentations, blending core engineering with modern software development skills.',
       icon: GraduationCap
     }
   ];
