@@ -2,11 +2,14 @@
   "name": "dhiya-joseph-portfolio",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "homepage": "https://dhiyajoseph.github.io/Dhiyaportfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "vercel-build": "vite build"
   },
   "dependencies": {
     "framer-motion": "^10.16.4",
